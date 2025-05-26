@@ -53,6 +53,6 @@ Berikut adalah screenshot dari hasil kodingan saya:
 ![Screenshot (136)](https://github.com/user-attachments/assets/32572562-9812-4b95-b175-6ca0c65b6b39)
 
 ## Penjelasan Singkat:
-Pada praktikum ini, saya membuat sebuah aplikasi buku cerita interaktif menggunakan Flutter dengan tiga halaman utama: halaman judul, halaman adegan utama, dan halaman akhir. Aplikasi ini menekankan pada penggunaan berbagai jenis gesture pada aplikasinya.
+Pada praktikum ini, saya membuat sebuah aplikasi buku cerita interaktif menggunakan Flutter dengan tiga halaman utama: halaman judul, halaman adegan utama, dan halaman akhir. Aplikasi ini menekankan pada penggunaan berbagai jenis gesture pada aplikasinya. Player dapat menekan tombol mulai permainan -> melakukan drag kunci ke box/menekan gambar astronot ataupun box untuk interaksi -> permainan selesai.
 
 ---
